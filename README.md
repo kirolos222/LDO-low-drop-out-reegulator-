@@ -16,3 +16,7 @@ For example, if you have a 3.3V regulator with a 1V dropout voltage, the input v
 watch video for more explaination:
 
 https://youtu.be/kuY9KpJeZW0
+
+Cadence design :
+
+<img width="1088" height="687" alt="image" src="https://github.com/user-attachments/assets/9c6644b5-0c19-401d-8828-17eb565554fc" />
