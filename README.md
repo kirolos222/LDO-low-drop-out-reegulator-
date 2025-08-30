@@ -20,3 +20,15 @@ https://youtu.be/kuY9KpJeZW0
 Cadence design :
 
 <img width="1088" height="687" alt="image" src="https://github.com/user-attachments/assets/9c6644b5-0c19-401d-8828-17eb565554fc" />
+
+VDD change from 1.08 to 1.32 vs Vout:
+
+<img width="1671" height="693" alt="image" src="https://github.com/user-attachments/assets/d696d63c-68b3-4050-9b49-974f4b13879b" />
+
+Current load change against Vout : 
+
+<img width="1670" height="709" alt="image" src="https://github.com/user-attachments/assets/2556e7c6-1dde-4577-9913-a13a4abba343" />
+
+supply ramp VS vout with the CM input range 600m to 900m : 
+
+![Uploading image.png…]()
