@@ -29,6 +29,12 @@ Current load change against Vout :
 
 <img width="1670" height="709" alt="image" src="https://github.com/user-attachments/assets/2556e7c6-1dde-4577-9913-a13a4abba343" />
 
-supply ramp VS vout with the CM input range 600m to 900m : 
+supply ramp VS vout : 
 
-![Uploading image.png…]()
+<img width="994" height="824" alt="image" src="https://github.com/user-attachments/assets/4b980c51-0d71-4ca9-94ab-95852b22ea65" />
+
+
+Vref ramp in CM range 600m to 900m :
+
+<img width="1671" height="722" alt="image" src="https://github.com/user-attachments/assets/b1d1a48d-50d0-4a82-8f21-bf266a18cb07" />
+
