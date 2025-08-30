@@ -38,3 +38,11 @@ Vref ramp in CM range 600m to 900m :
 
 <img width="1671" height="722" alt="image" src="https://github.com/user-attachments/assets/b1d1a48d-50d0-4a82-8f21-bf266a18cb07" />
 
+AC responce :
+
+<img width="1912" height="763" alt="image" src="https://github.com/user-attachments/assets/5b810f8d-6423-4369-bdc9-8c60b8f9a934" />
+
+PM and GM
+
+<img width="1917" height="722" alt="image" src="https://github.com/user-attachments/assets/60e90f9c-1a68-4191-b16a-17a58c62676c" />
+
